@@ -16,9 +16,6 @@ buildscript {
     }
 }
 
-wrapper {
-    distributionType = Wrapper.DistributionType.ALL
-}
 allprojects {
 
     repositories {
